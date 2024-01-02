@@ -1,0 +1,39 @@
+
+/*big words*/
+body h1{
+    color:#BC6C25;
+    font-size:2vh;
+    text-align:center;
+}
+h2{
+    font-size:40px;
+    text-decoration:underline;
+}
+/*small words*/
+p{
+    color:black;
+}
+/*background*/
+.bodycss{
+    background-color:#606C38;
+}
+#dropdownMenuButton{
+    margin-left:5%;
+}
+/*div*/
+div .backgroundDiv{
+    background-color:#FEFAE0;
+}
+nav{
+    background-color:#FEFAE0;
+}
+
+div .tablecolored{
+    background-color:#DDA15E;
+}
+footer{
+    background-color:#283618;
+}
+footer a,footer p,footer i{
+    color: #FEFAE0;
+}
